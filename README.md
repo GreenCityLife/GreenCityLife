@@ -7,8 +7,16 @@
 
 ## 🔰 Stats
 
+### My Github Stats
 ![GreenCityLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=greencitylife&show_icons=true&theme=github_dark)
+
+### My Commit Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greencitylife&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### My Top Langs
+This graph just shows my **most used langs in github**, **not my abilities**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greencitylife&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✅ Quotes
 
