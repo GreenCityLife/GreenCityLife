@@ -1,5 +1,6 @@
 ![Header](header.png)
 ## 👋 Hi there
+![](https://komarev.com/ghpvc/?username=greencitylife&color=brightgreen)
 
 - 🔭 I’m currently working on [Green Coder](https://github.com/GreenCityLife/Green-Coder/)
 - 🌱 I’m currently learning **Something cool**!
