@@ -26,6 +26,6 @@ This graph just shows my **most used langs in github**, **not my abilities**
 
 ## 📫 How to reach me:
 
-- **Discord**: [Green City Life](https://discordapp.com/channels/@me/848777659646214184/)
+- **Discord**: [Green City Life#1179](https://discordapp.com/channels/@me/848777659646214184/)
 - **Github**: [GreenCityLife](https://github.com/GreenCityLife/)
 - **Telegram**: [GreenCityLife](https://t.me/GreenCity_Kingdom/)
