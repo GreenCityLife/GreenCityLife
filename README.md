@@ -1,6 +1,7 @@
 ![Header](header.png)
-## 👋 Hi there
-![](https://komarev.com/ghpvc/?username=greencitylife&color=brightgreen)
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Profile Views](https://komarev.com/ghpvc/?username=greencitylife&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/GreenCityLife?color=brightgreen&style=dark)
 
 - 🔭 I’m currently working on [Green Coder](https://github.com/GreenCityLife/Green-Coder/)
 - 🌱 I’m currently learning **Something cool**!
